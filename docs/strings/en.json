@@ -1,0 +1,35 @@
+{
+    "appname": "Anarchy game",
+    "settings": "Settings",
+    "language": "Language",
+    "about": "About",
+    "install": "Install",
+    "game": "Game",
+    "archivements": "Archivements",
+    "theme": "Theme",
+    "backgroundColor": "Background color: ",
+    "textColor": "Background color: ",
+    "navbarColor": "Navigation bar color: ",
+    "borderColor": "Border color: ",
+    "buttonColor": "Button color: ",
+    "buttonHoverColor": "Button hover color: ",
+    "navbarHoverColor": "Navigation bar hover color: ",
+    "navbarActiveColor": "Navigation bar click color: ",
+    "storage": "Storage",
+    "spoiler": "Show/Hide",
+    "usage": "Usage: {{0}}MB / {{1}}MB",
+    "persistent": "Persistent: {{0}}",
+    "persistentExplain": "When the Storage is persistent, the browser won't delete your settings and savegames without asking you.",
+    "yes": "yes",
+    "no": "no",
+    "explanation": "Explanation",
+    "makePersistent": "Make persistent",
+    "deleteAll": "Delete all",
+    "exportSettings": "Export settings to clipboard",
+    "importSettings": "Import settings from clipboard",
+    "settingsExported": "Settings exported to clipboard"
+    
+    
+    
+    
+} 

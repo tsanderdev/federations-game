@@ -1,0 +1,35 @@
+{
+    "appname": "Anarchiespiel",
+    "settings": "Einstellungen",
+    "language": "Sprache",
+    "about": "Informationen",
+    "install": "Installieren",
+    "game": "Spiel",
+    "archivements": "Errungenschaften",
+    "theme": "Farbschema",
+    "backgroundColor": "Hintergrundfarbe: ",
+    "textColor": "Textfarbe: ",
+    "navbarColor": "Navigationsleistenfarbe: ",
+    "borderColor": "Umrandungsfarbe: ",
+    "buttonColor": "Buttonfarbe: ",
+    "buttonHoverColor": "Buttonfarbe beim drüberfahren: ",
+    "navbarHoverColor": "Navigationsleistenfarbe beim drüberfahren: ",
+    "navbarActiveColor": "Navigationsleistenfarbe beim klicken: ",
+    "storage": "Speicher",
+    "spoiler": "Zeigen/Verbergen",
+    "usage": "Verbrauch: {{0}}MB / {{1}}MB",
+    "persistent": "Persistent: {{0}}",
+    "persistentExplain": "Wenn der Speicher persistent ist, löscht der Browser deine Einstellungen und Spielstände nicht, ohne dich zu fragen.",
+    "yes": "Ja",
+    "no": "Nein",
+    "explanation": "Erklärung",
+    "makePersistent": "Persistent machen",
+    "deleteAll": "Alles löschen",
+    "exportSettings": "Einstellungen in die Zwischenablage exportieren",
+    "importSettings": "Einstellungen aus der Zwischenablage importieren",
+    "settingsExported": "Einstellungen in die Zwischenablage exportiert"
+    
+    
+    
+} 
+ 
